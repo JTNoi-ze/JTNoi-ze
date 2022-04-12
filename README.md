@@ -1,6 +1,8 @@
 - (✌ﾟ∀ﾟ)☞ Hi, I’m @JTNoi-ze
 - ( ๑‾̀◡‾́)σ" I’m interested in videogames, digitalart and learn basic programming
-- 🌱 I’m currently learning programming in c++ with VisualStudio
+- 🌱 I’m currently learning programming in c++ with VisualStudio 
+- Actually a graphic designer and animator in progress 
+- Avocado God Esp/Eng 
 
 <!---
 JTNoi-ze/JTNoi-ze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
